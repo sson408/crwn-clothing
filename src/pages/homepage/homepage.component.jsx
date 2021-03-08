@@ -1,7 +1,7 @@
 import React from 'react'
 import './homepage.styles.scss'
 
-import Directory from '../../componenet/directory/directory.cpmponent'
+import Directory from '../../component/directory/directory.cpmponent'
 
 
 
